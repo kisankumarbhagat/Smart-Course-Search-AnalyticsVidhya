@@ -1,0 +1,100 @@
+title,description,curriculum
+Frameworks for Effective Problem Solving,"This course focuses on various problem-solving frameworks that are essential for navigating complex challenges in real-world scenarios. Whether in business, technology, or research, mastering structured problem-solving approaches will equip you to break down issues systematically and find optimal solutions.","Introduction to Problem Solving Frameworks
+The Scientific Method & Hypothesis Testing
+Root Cause Analysis Techniques (5 Whys, Fishbone Diagram)
+Design Thinking for Problem-Solving
+Decision-Making Frameworks (Cost-Benefit Analysis, SWOT Analysis)
+Data-Driven Problem Solving (Analytics & Visualization)
+Case Studies: Applying Problem-Solving Frameworks in Various Industries
+Practical Exercises and Group Problem-Solving"
+Anyone can Build Al Agents - Free Course,"In this free course, learners will explore how to build intelligent AI agents using simple tools and frameworks. The course aims to demystify AI development and show that anyone, regardless of their background, can create functional AI agents for automation, decision-making, and more.","Introduction to AI Agents and Their Applications
+Understanding Agent Architectures
+Basic AI Agent Design Principles
+Setting Up the Development Environment (Tools & Libraries)
+Building a Simple AI Chatbot
+Creating a Rule-Based AI Agent
+Machine Learning Basics for AI Agents
+Training Your AI Agent (Data Collection & Model Training)
+Deploying AI Agents to Real-World Use Cases
+Final Project: Build Your Own AI Agent"
+A Comprehensive Learning Path to Become a Data Analyst in 2025,"This course provides a structured roadmap to becoming a proficient data analyst by 2025. It covers the necessary skills, tools, and techniques you need to understand and analyze data, draw insights, and make data-driven decisions across various domains.","Introduction to Data Analytics and the Data Analyst Role
+Foundations of Statistics & Probability for Data Analysis
+Data Collection and Cleaning Techniques
+Exploratory Data Analysis (EDA) with Python/R
+Data Visualization Principles (Matplotlib, Seaborn, Tableau)
+SQL for Data Analysis
+Introduction to Machine Learning for Data Analysts
+Advanced Data Analysis: Predictive Modeling & Regression
+Communicating Insights Effectively to Stakeholders
+Capstone Project: Real-World Data Analysis"
+Reimagining GenAl: Common Mistakes and Best Practices for Success,"This course delves into the common pitfalls when working with Generative AI (GenAI) systems and offers strategies and best practices to avoid these mistakes. The course is designed for AI developers, researchers, and enthusiasts aiming to enhance the performance of GenAI models and achieve better results.","Overview of Generative AI (GenAI)
+Common Mistakes in GenAI Development
+Data Quality Issues: How to Handle Bias and Inaccuracy
+Overfitting & Underfitting: Understanding Model Behavior
+Ethical Considerations in GenAI Applications
+Best Practices for Model Training and Evaluation
+Optimizing GenAI Models for Better Outcomes
+Deploying GenAI in Real-World Applications
+Maintaining GenAI Models Post-Deployment
+Case Studies of GenAI Success and Failures"
+Coding a ChatGPT-style Language Model from Scratch in PyTorch,This hands-on course teaches how to build a state-of-the-art language model similar to ChatGPT using PyTorch. You will learn the concepts behind transformer models and gain practical experience in coding a large language model.,"Introduction to Transformers and Language Models
+Understanding the Architecture of ChatGPT
+Setting Up PyTorch and Required Libraries
+Building the Neural Network: Layers and Attention Mechanism
+Tokenization and Embeddings
+Training the Language Model
+Handling Large Datasets and Training Efficiency
+Fine-Tuning the Model for Specific Use Cases
+Evaluating the Language Model Performance
+Deploying the Chatbot/Language Model
+"
+Mastering Multilingual GenAl Open- Weights for Indic Languages,"In this course, students will learn how to leverage open weights to create multilingual Generative AI models, focusing on Indic languages. The course emphasizes cross-lingual models, data preprocessing, and the challenges of working with underrepresented languages.","Introduction to Multilingual GenAI and Cross-Lingual Models
+Overview of Indic Languages and Their Challenges
+Using Pre-Trained Models and Open Weights for Multilingual Tasks
+Fine-Tuning for Indic Language Performance
+Data Collection and Preprocessing for Indic Languages
+Model Evaluation and Benchmarking
+Applications of Multilingual GenAI (Translation, Text Generation)
+Techniques to Overcome Data Scarcity in Indic Languages
+Building Custom GenAI Systems for Multilingual Use Cases
+Case Studies: Success Stories and Challenges"
+Learning Autonomous Driving Behaviors with LLMs & RL,This course explores how Large Language Models (LLMs) and Reinforcement Learning (RL) can be integrated to train autonomous vehicles. It provides insights into the algorithms that enable vehicles to learn and make decisions in dynamic environments.,"Introduction to Autonomous Driving and AI Techniques
+Understanding the Role of LLMs in Autonomous Vehicles
+Introduction to Reinforcement Learning and its Applications
+Data Collection and Simulation Environments
+Modeling and Training Decision-Making Behaviors
+Combining LLMs and RL for Autonomous Driving
+Reward Functions and Exploration vs. Exploitation in RL
+Safety, Ethics, and Challenges in Autonomous Driving
+Testing and Deployment in Real-World Scenarios
+Future Trends and Research in Autonomous Driving"
+GenAl Applied to Quantitative Finance: For Control Implementation,"This course introduces the use of Generative AI (GenAI) techniques in quantitative finance, with a focus on control systems and risk management. You will learn how to model, predict, and optimize financial systems using GenAI methods.","Introduction to Quantitative Finance and GenAI
+Financial Modelling with Machine Learning and AI
+Risk Management Strategies with GenAI
+Control Systems in Financial Markets
+Portfolio Optimization Using AI Algorithms
+Predictive Analytics for Stock Market Forecasting
+Reinforcement Learning in Trading Systems
+Backtesting and Model Validation
+Ethical and Regulatory Considerations in AI for Finance
+Capstone Project: Build a GenAI Trading System"
+"Navigating LLM Tradeoffs: Techniques for Speed, Cost, Scale & Accuracy","This course provides a deep dive into the trade-offs when using Large Language Models (LLMs) for practical applications. You will learn how to balance speed, cost, scale, and accuracy to optimize LLMs for real-world scenarios.","Introduction to Large Language Models (LLMs)
+Speed vs. Accuracy Trade-offs
+Optimizing Model Performance for Low-Cost Deployment
+Scalability Challenges in LLM Applications
+Fine-Tuning Models for Specific Use Cases
+Efficient Model Training and Deployment Techniques
+Using Distillation and Pruning to Optimize LLMs
+Monitoring and Maintaining LLM Performance
+Case Studies on LLM Scaling in Industry
+Final Project: Optimize an LLM for a Real-World Application"
+Creating Problem-Solving Agents using GenAl for Action Composition,"This course teaches how to create intelligent agents using GenAI that can autonomously compose and execute actions to solve complex problems. The focus is on combining decision-making, planning, and action generation to build fully autonomous agents.","Introduction to Action Composition and Problem Solving
+Overview of GenAI in Autonomous Decision-Making
+Building an Agent: Architecture and Workflow
+Action Generation: From Idea to Execution
+Planning Algorithms and Their Integration in Problem Solvers
+Using Reinforcement Learning for Action Optimization
+Action Sequencing and Execution in Complex Environments
+Applications: Automation in Healthcare, Robotics, and Business
+Ethical and Safety Considerations in Autonomous Agents
+Capstone Project: Build a Problem-Solving GenAI Agent"
